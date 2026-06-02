@@ -1,6 +1,8 @@
 A Rust derivative of parts of the celeste-northern-lights source code by devRals is used in this project.
 The original code is distributed under the MIT license, original repo license included below:
 
+START OF LICENSE TEXT
+
 MIT License
 
 Copyright (c) 2026 devRals
@@ -28,6 +30,8 @@ END OF LICENSE TEXT
 
 This project also uses gtk4-layer-shell by Sophie Winter to handle the wlr-layer-shell protocol integration.
 gtk4-layer-shell is distributed under the MIT license, original repo license included below:
+
+START OF LICENSE TEXT
 
 The MIT License (MIT)
 
